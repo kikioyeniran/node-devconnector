@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://kikioyeniran:landactdecree1978@devconnector-ccvgm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
